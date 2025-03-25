@@ -1,6 +1,6 @@
 {
-  "name": "discord.js-typescript-template",
-  "version": "4.1.1",
+  "name": "discord-simple-tts",
+  "version": "1.0.0",
   "author": "kuwacom",
   "description": "",
   "main": "index.js",

@@ -1,5 +1,5 @@
 if [ -z "$1" ]; then
-    target="djs-ts-template"
+    target="Discord-SimpleTTS"
 else
     target="$1"
 fi

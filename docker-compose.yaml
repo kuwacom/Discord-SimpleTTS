@@ -1,7 +1,7 @@
 services:
   discord-bot:
     image: node:20
-    container_name: discord-template-bot
+    container_name: discord-simple-tts
     working_dir: /app
     volumes:
       - ./:/app
